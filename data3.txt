@@ -1,0 +1,9 @@
+Upper Limit,16.5,18.5
+Lower Limit, 3.5, 0.5
+Point,2.9, 3.2
+Point,5.0, 16.1
+Point,15.0, 19.0
+Point,13.5, 11.0
+Point,17.7, 4.3
+Point,12.5, 8.8
+Point,2.9, 3.2

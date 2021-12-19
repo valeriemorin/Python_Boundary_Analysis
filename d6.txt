@@ -1,0 +1,16 @@
+Upper Limit, 12,12
+Lower Limit, 1,1
+Point,1,-6
+Point,-3.5,11
+Point,5,14
+Point,18,5
+Point,0,5
+Point,11.5,-3
+Point,16,11
+Point,10.5,9
+Point,12,6
+Point,12,2
+Point,7,4
+Point,8,9
+Point,5,5
+Point,13,6

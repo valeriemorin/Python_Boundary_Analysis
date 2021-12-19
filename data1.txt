@@ -1,0 +1,10 @@
+Lower Limit, 2.0, 2.0
+Upper Limit,10.0, 10.0
+Point1, 3.9, 2.5
+Point2, 1.2, 8.4
+Point3, 6.7, 7.2
+Point4, 6.5, 9.9
+Point5, 9.3, 12.8
+Point6, 9.9, 5.8
+Point7,10.5, 3.1
+Point1, 3.9, 2.5
